@@ -1,0 +1,10 @@
+.modal {
+    top: unset !important;
+    left: unset !important;
+    height: fit-content !important;
+    width: fit-content !important;
+}
+
+.detail-content {
+    margin: 20px auto;
+} 
