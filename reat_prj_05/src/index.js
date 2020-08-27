@@ -14,8 +14,6 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import UserStore from "./store/UserStore"
 import StateStore from "./store/StateStore"
 
-basename = "/first_Project_onlyFront"
-
 ReactDOM.render(
   <Provider
     ItemStore={ItemStore}
