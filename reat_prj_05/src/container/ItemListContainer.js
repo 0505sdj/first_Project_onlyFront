@@ -36,8 +36,8 @@ class ItemListContainer extends Component {
           </div>
         </div>
         <div className="header_imgs">
-          <img src="/main_images/header_img1.png"></img>
-          <img src="/main_images/header_img2.png"></img>
+          <img src="./main_images/header_img1.png"></img>
+          <img src="./main_images/header_img2.png"></img>
         </div>
         <MiddleContentContainer />
 
